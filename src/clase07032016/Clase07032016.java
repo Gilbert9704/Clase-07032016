@@ -37,7 +37,7 @@ public class Clase07032016 {
         
         for (int i = 0; i < estudiantes.size(); i++){ //size me permite conocer el tamaño del arreglo
             Estudiante s = estudiantes.get(i); //get para obtener un elemento de una posicion determinada
-            System.out.println();
+            System.out.println("No se que iba aquí");    
         }
     }
     

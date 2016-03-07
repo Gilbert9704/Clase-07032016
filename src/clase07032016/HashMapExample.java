@@ -36,6 +36,12 @@ public class HashMapExample {
         else{
             System.out.println("ID invalida: " + id);
         }
+        
+        for (Estudiante d : students.values()){  //(.values) coje todo los elementos almacenados en e1, e2 y los une en una coleccion
+          System.out.println("ID: " + d.getIdNo());
+          System.out.println("ID: " + d.getName());
+          System.out.println();     
+        }
     }
     
 }

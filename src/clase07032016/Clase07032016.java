@@ -16,7 +16,7 @@ public class Clase07032016 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+       //Se va estudiar el uso de ArrayList
        ArrayList<Estudiante> estudiantes = new ArrayList<Estudiante>();
        
        Estudiante a = new Estudiante("1","F");

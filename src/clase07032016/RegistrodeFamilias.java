@@ -18,6 +18,8 @@ public class RegistrodeFamilias {
         
         //Entregar esto para la proxima clase, y hace los diagramas del taller de modelamiento
         
+        
+        
     }
     
 }

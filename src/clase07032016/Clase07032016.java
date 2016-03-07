@@ -18,8 +18,15 @@ public class Clase07032016 {
     public static void main(String[] args) {
         
        ArrayList<Estudiante> estudiantes = new ArrayList<Estudiante>();
-               
+       
+       Estudiante a = new Estudiante("1","F");
+       Estudiante b = new Estudiante("2","I");
+       Estudiante c = new Estudiante("3","V");
         
+       estudiantes.add(a);
+       estudiantes.add(b);
+       estudiantes.add(c);
+       
     }
     
 }
